@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:001400,60:00FF41,100:002b00&section=header&text=Raunak%20Paswan&fontSize=46&fontColor=eaffea&fontAlignY=34&desc=building%20apps%20and%20web%20tools&descSize=17&descAlignY=57&animation=twinkling" alt="Raunak Paswan" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=building+android+apps+and+web+tools;learning+kotlin,+astro+and+web+dev+in+public;everything+on+this+profile+is+open+source&font=JetBrains+Mono&color=00FF41&size=16&center=true&vCenter=true&speed=90&pause=1400" alt="Typing" width="100%" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PaswanRaunak&color=00FF41&style=flat-square&label=profile+views" alt="Profile views" />
 </p>
@@ -82,4 +80,10 @@ ap-fraud-sentinel   invoice fraud screening before payment release
 
 ## Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-@C1pherHeaven-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/C1pherHeaven)
+<p align="center">
+  <a href="https://t.me/C1pherHeaven">
+    <img src="https://img.shields.io/badge/Telegram-@C1pherHeaven-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @C1pherHeaven" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:002b00,60:00FF41,100:001400&section=footer" alt="" width="100%" />
