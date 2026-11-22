@@ -38,8 +38,8 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/PaswanRaunak/compressimg">
-        <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/showcase-compressimg.png" alt="compressimg live site" />
+      <a href="https://github.com/PaswanRaunak/imgcompressor">
+        <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/showcase-imgcompressor.png" alt="imgcompressor.tools live site" />
       </a>
     </td>
   </tr>
