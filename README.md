@@ -103,7 +103,7 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaswanRaunak&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaswanRaunak&layout=compact&theme=chartreuse-dark&hide_border=true&exclude_repo=android_kernel_oneplus_sm6375,android_device_oneplus_larry,android_device_oneplus_sm6375-common" alt="Top languages" />
 
 ## Activity
 
