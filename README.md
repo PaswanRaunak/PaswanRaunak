@@ -48,26 +48,38 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=athermate&theme=chartreuse-dark&hide_border=true" alt="athermate" />
+      <a href="https://github.com/PaswanRaunak/athermate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=athermate&theme=chartreuse-dark&hide_border=true" alt="athermate" />
+      </a>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=athermate-archive&theme=chartreuse-dark&hide_border=true" alt="athermate-archive" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=compressimg&theme=chartreuse-dark&hide_border=true" alt="compressimg" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=sahakarmitra&theme=chartreuse-dark&hide_border=true" alt="sahakarmitra" />
+      <a href="https://github.com/PaswanRaunak/athermate-archive">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=athermate-archive&theme=chartreuse-dark&hide_border=true" alt="athermate-archive" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=NER-Connect&theme=chartreuse-dark&hide_border=true" alt="NER-Connect" />
+      <a href="https://github.com/PaswanRaunak/compressimg">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=compressimg&theme=chartreuse-dark&hide_border=true" alt="compressimg" />
+      </a>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=ap-fraud-sentinel&theme=chartreuse-dark&hide_border=true" alt="ap-fraud-sentinel" />
+      <a href="https://github.com/PaswanRaunak/sahakarmitra">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=sahakarmitra&theme=chartreuse-dark&hide_border=true" alt="sahakarmitra" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/PaswanRaunak/NER-Connect">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=NER-Connect&theme=chartreuse-dark&hide_border=true" alt="NER-Connect" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/PaswanRaunak/ap-fraud-sentinel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=ap-fraud-sentinel&theme=chartreuse-dark&hide_border=true" alt="ap-fraud-sentinel" />
+      </a>
     </td>
   </tr>
 </table>
