@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:001400,60:00FF41,100:002b00&section=header&text=Raunak%20Paswan&fontSize=46&fontColor=eaffea&fontAlignY=34&desc=Android%20ROM%20and%20kernel%20developer&descSize=17&descAlignY=57&animation=twinkling" alt="Raunak Paswan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:001400,60:00FF41,100:002b00&section=header&text=Raunak%20Paswan&fontSize=46&fontColor=eaffea&fontAlignY=34&desc=building%20apps%20and%20web%20tools&descSize=17&descAlignY=57&animation=twinkling" alt="Raunak Paswan" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=PenguinOS+port+for+OnePlus+Nord+CE+3+Lite+5G;Kotlin+apps+for+Ather+scooters;Small+web+tools+in+JavaScript+and+Astro&font=JetBrains+Mono&color=00FF41&size=16&center=true&vCenter=true&speed=90&pause=1400" alt="Typing" width="100%" />
+<img src="https://readme-typing-svg.demolab.com/?lines=building+android+apps+and+web+tools;learning+kotlin,+astro+and+web+dev+in+public;everything+on+this+profile+is+open+source&font=JetBrains+Mono&color=00FF41&size=16&center=true&vCenter=true&speed=90&pause=1400" alt="Typing" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PaswanRaunak&color=00FF41&style=flat-square&label=profile+views" alt="Profile views" />
@@ -8,18 +8,17 @@
 
 ```console
 $ whoami
-android rom & kernel developer
+builder of small android apps and web tools
 
-$ cat device.info
-codename   larry
-device     oneplus nord ce 3 lite 5g
-soc        qualcomm snapdragon 695 (sm6375 / holi)
-target     penguinos, kernel linux 5.4 msm-5.4
+$ cat how.txt
+built with ai assistance, learning as i ship
 
-$ ls ~/projects
-athermate      companion app for ather scooters (kotlin)
-compressimg    in-browser image compression (astro + cloudflare workers)
-sahakarmitra   legal assistant for housing society law (smart india hackathon)
+$ ls ~/shipped
+athermate           companion app for ather scooters (kotlin)
+compressimg         in-browser image compression (astro + cloudflare workers)
+sahakarmitra        legal assistant for housing society law (smart india hackathon)
+ner-connect         logistics platform for northeast india
+ap-fraud-sentinel   invoice fraud screening before payment release
 ```
 
 ## Projects
@@ -30,30 +29,30 @@ sahakarmitra   legal assistant for housing society law (smart india hackathon)
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=athermate&theme=chartreuse-dark&hide_border=true" alt="athermate" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=android_kernel_oneplus_sm6375&theme=chartreuse-dark&hide_border=true" alt="kernel" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=athermate-archive&theme=chartreuse-dark&hide_border=true" alt="athermate-archive" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=android_device_oneplus_larry&theme=chartreuse-dark&hide_border=true" alt="larry" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=compressimg&theme=chartreuse-dark&hide_border=true" alt="compressimg" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=android_device_oneplus_sm6375-common&theme=chartreuse-dark&hide_border=true" alt="sm6375-common" />
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=sahakarmitra&theme=chartreuse-dark&hide_border=true" alt="sahakarmitra" />
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=compressimg&theme=chartreuse-dark&hide_border=true" alt="compressimg" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=NER-Connect&theme=chartreuse-dark&hide_border=true" alt="NER-Connect" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=ap-fraud-sentinel&theme=chartreuse-dark&hide_border=true" alt="ap-fraud-sentinel" />
     </td>
   </tr>
 </table>
 
-## Stack
+## Tools I use
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,c,bash,gradle,linux,android,git,js,astro,html,css,cloudflare,githubactions&theme=dark" alt="Tech stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,js,astro,html,css,cloudflare,linux,git&theme=dark" alt="Tools" width="100%" />
 
 ## Stats
 
