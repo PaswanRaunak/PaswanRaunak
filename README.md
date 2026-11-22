@@ -1,32 +1,59 @@
-# Raunak Paswan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:001400,60:00FF41,100:002b00&section=header&text=Raunak%20Paswan&fontSize=46&fontColor=eaffea&fontAlignY=34&desc=Android%20ROM%20%26%20kernel%20developer&descSize=17&descAlignY=57&animation=twinkling" alt="Raunak Paswan" width="100%" />
 
-Android ROM and kernel developer. I build PenguinOS for the OnePlus Nord CE 3 Lite 5G and write small tools for the devices I use.
+<img src="https://readme-typing-svg.demolab.com/?lines=PenguinOS+port+for+OnePlus+Nord+CE+3+Lite+5G;Kotlin+apps+for+Ather+scooters;Small+web+tools+in+JavaScript+and+Astro&font=JetBrains+Mono&color=00FF41&size=16&center=true&vCenter=true&speed=90&pause=1400" alt="Typing" width="100%" />
 
-![profile views](https://komarev.com/ghpvc/?username=PaswanRaunak&color=00FF41&style=flat-square&label=profile+views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PaswanRaunak&color=00FF41&style=flat-square&label=profile+views" alt="Profile views" />
+</p>
 
-## Work
+```console
+$ whoami
+android rom & kernel developer
 
-| Repo | What it is |
-| ---- | ---------- |
-| [athermate](https://github.com/PaswanRaunak/athermate) | Companion app for Ather scooters: dash Bluetooth link, charge history, ride insights. Kotlin. |
-| [android_kernel_oneplus_sm6375](https://github.com/PaswanRaunak/android_kernel_oneplus_sm6375) | Linux 5.4 msm-5.4 kernel for holi (SM6375), built for PenguinOS and LineageOS 24.0. |
-| [android_device_oneplus_larry](https://github.com/PaswanRaunak/android_device_oneplus_larry) | Device tree for the OnePlus Nord CE 3 Lite 5G (larry) on PenguinOS. |
-| [android_device_oneplus_sm6375-common](https://github.com/PaswanRaunak/android_device_oneplus_sm6375-common) | Common SM6375 / holi device tree for OnePlus devices on PenguinOS. |
-| [sahakarmitra](https://github.com/PaswanRaunak/sahakarmitra) | Citation-grounded legal assistant for cooperative housing society law in India, on web and Telegram. Smart India Hackathon build. |
-| [compressimg](https://github.com/PaswanRaunak/compressimg) | In-browser image compression for JPG, PNG and WebP with target sizes from 20KB to 200KB. |
+$ cat device.info
+codename   larry
+device     oneplus nord ce 3 lite 5g
+soc        qualcomm snapdragon 695 (sm6375 / holi)
+target     penguinos, kernel linux 5.4 msm-5.4
+
+$ ls ~/projects
+athermate      companion app for ather scooters (kotlin)
+compressimg    in-browser image compression (astro + cloudflare workers)
+sahakarmitra   legal assistant for housing society law (smart india hackathon)
+```
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=athermate&theme=chartreuse-dark&hide_border=true" alt="athermate" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=android_kernel_oneplus_sm6375&theme=chartreuse-dark&hide_border=true" alt="kernel" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=android_device_oneplus_larry&theme=chartreuse-dark&hide_border=true" alt="larry" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=android_device_oneplus_sm6375-common&theme=chartreuse-dark&hide_border=true" alt="sm6375-common" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=sahakarmitra&theme=chartreuse-dark&hide_border=true" alt="sahakarmitra" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaswanRaunak&repo=compressimg&theme=chartreuse-dark&hide_border=true" alt="compressimg" />
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=gradle&logoColor=white)
-![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kotlin,java,c,bash,gradle,linux,android,git,js,astro,html,css,cloudflare,githubactions&theme=dark" alt="Tech stack" width="100%" />
 
 ## Stats
 
@@ -42,6 +69,10 @@ Android ROM and kernel developer. I build PenguinOS for the OnePlus Nord CE 3 Li
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaswanRaunak&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" />
+
+## Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PaswanRaunak&theme=merko&hide_border=true&area=true&line=00FF41&point=eaffea&area_color=002b00" alt="Contribution activity" width="100%" />
 
 ## Contribution graph
 
