@@ -5,7 +5,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/PaswanRaunak?style=flat-square&color=00FF41&labelColor=0d120d&label=followers" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/PaswanRaunak?affiliations=DIRECT&style=flat-square&color=00FF41&labelColor=0d120d&label=stars" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/PaswanRaunak?style=flat-square&color=00FF41&labelColor=0d120d&label=stars" alt="Stars" />
 </p>
 
 <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/neofetch.svg" alt="raunak@github neofetch" width="100%" />
