@@ -1,4 +1,4 @@
-# Rounak Paswan
+# Raunak Paswan
 
 Android ROM and kernel developer. I build PenguinOS for the OnePlus Nord CE 3 Lite 5G and write small tools for the devices I use.
 
