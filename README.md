@@ -14,6 +14,20 @@
 
 ## Projects
 
+**athermate, on a real device**
+
+<p align="center">
+  <a href="https://github.com/PaswanRaunak/athermate">
+    <img src="https://raw.githubusercontent.com/PaswanRaunak/athermate/main/docs/assets/fork/dashboard_dark.png" width="30%" alt="athermate dashboard" />
+  </a>
+  <a href="https://github.com/PaswanRaunak/athermate">
+    <img src="https://raw.githubusercontent.com/PaswanRaunak/athermate/main/docs/assets/fork/charging_light.png" width="30%" alt="athermate charging screen" />
+  </a>
+  <a href="https://github.com/PaswanRaunak/athermate">
+    <img src="https://raw.githubusercontent.com/PaswanRaunak/athermate/main/docs/assets/fork/qr_scanner.png" width="30%" alt="athermate bluetooth qr scanner" />
+  </a>
+</p>
+
 **web tools, running live**
 
 <table>
