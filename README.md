@@ -43,8 +43,6 @@ Android ROM and kernel developer. I build PenguinOS for the OnePlus Nord CE 3 Li
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaswanRaunak&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=PaswanRaunak&theme=matrix&no-frame=true&no-bg=true&column=4" alt="Trophies" />
-
 ## Contribution graph
 
 <picture>
