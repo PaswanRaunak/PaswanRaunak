@@ -14,6 +14,37 @@
 
 ## Projects
 
+**athermate, on a real device**
+
+<p align="center">
+  <a href="https://github.com/PaswanRaunak/athermate">
+    <img src="https://raw.githubusercontent.com/PaswanRaunak/athermate/main/docs/assets/screenshot_dashboard.png" width="30%" alt="athermate dashboard" />
+  </a>
+  <a href="https://github.com/PaswanRaunak/athermate">
+    <img src="https://raw.githubusercontent.com/PaswanRaunak/athermate/main/docs/assets/screenshot_charging.png" width="30%" alt="athermate charging screen" />
+  </a>
+  <a href="https://github.com/PaswanRaunak/athermate">
+    <img src="https://raw.githubusercontent.com/PaswanRaunak/athermate/main/docs/assets/screenshot_map.jpg" width="30%" alt="athermate ride map" />
+  </a>
+</p>
+
+**web tools, running live**
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/PaswanRaunak/sahakarmitra">
+        <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/showcase-sahakarmitra.png" alt="sahakarmitra live site" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/PaswanRaunak/compressimg">
+        <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/showcase-compressimg.png" alt="compressimg live site" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td width="50%">
