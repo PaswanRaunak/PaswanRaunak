@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:001400,60:00FF41,100:002b00&section=header&text=Raunak%20Paswan&fontSize=46&fontColor=eaffea&fontAlignY=34&desc=Android%20ROM%20%26%20kernel%20developer&descSize=17&descAlignY=57&animation=twinkling" alt="Raunak Paswan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:001400,60:00FF41,100:002b00&section=header&text=Raunak%20Paswan&fontSize=46&fontColor=eaffea&fontAlignY=34&desc=Android%20ROM%20and%20kernel%20developer&descSize=17&descAlignY=57&animation=twinkling" alt="Raunak Paswan" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=PenguinOS+port+for+OnePlus+Nord+CE+3+Lite+5G;Kotlin+apps+for+Ather+scooters;Small+web+tools+in+JavaScript+and+Astro&font=JetBrains+Mono&color=00FF41&size=16&center=true&vCenter=true&speed=90&pause=1400" alt="Typing" width="100%" />
 
