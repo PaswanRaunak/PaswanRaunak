@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" font-family="Consolas,'JetBrains Mono',Menlo,'DejaVu Sans Mono',monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b130b"/>
+      <stop offset="1" stop-color="#060a06"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF41" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00FF41" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#00FF41" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="998" height="298" rx="17" fill="none" stroke="#00FF41" stroke-opacity="0.35"/>
+
+  <circle cx="36" cy="24" r="7" fill="#00FF41"/>
+  <circle cx="60" cy="24" r="7" fill="#00FF41" fill-opacity="0.5"/>
+  <circle cx="84" cy="24" r="7" fill="#00FF41" fill-opacity="0.25"/>
+  <text x="500" y="29" text-anchor="middle" font-size="15" fill="#5fae72">raunak@github:~</text>
+  <line x1="1" y1="47" x2="999" y2="47" stroke="#00FF41" stroke-opacity="0.25"/>
+
+  <text x="72" y="152" font-size="50" font-weight="bold"><tspan fill="#00FF41">$ </tspan><tspan fill="#f2f7f2">Raunak Paswan</tspan><tspan fill="#00FF41">|<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.3s" repeatCount="indefinite"/></tspan></text>
+
+  <text x="74" y="208" font-size="21" fill="#7ee88c">building apps and web tools</text>
+  <text x="74" y="252" font-size="15" fill="#4f9e63">github.com/PaswanRaunak</text>
+
+  <rect x="40" y="282" width="920" height="4" rx="2" fill="url(#edge)"/>
+</svg>

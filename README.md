@@ -1,23 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:001400,60:00FF41,100:002b00&section=header&text=Raunak%20Paswan&fontSize=46&fontColor=eaffea&fontAlignY=34&desc=building%20apps%20and%20web%20tools&descSize=17&descAlignY=57&animation=twinkling" alt="Raunak Paswan" width="100%" />
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/hero.svg" alt="Raunak Paswan" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PaswanRaunak&color=00FF41&style=flat-square&label=profile+views" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/PaswanRaunak?style=flat-square&color=00FF41&labelColor=0d120d&label=followers" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/PaswanRaunak?affiliations=DIRECT&style=flat-square&color=00FF41&labelColor=0d120d&label=stars" alt="Stars" />
 </p>
 
-```console
-$ whoami
-builder of small android apps and web tools
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/neofetch.svg" alt="raunak@github neofetch" width="100%" />
 
-$ cat how.txt
-built with ai assistance, learning as i ship
-
-$ ls ~/shipped
-athermate           companion app for ather scooters (kotlin)
-compressimg         in-browser image compression (astro + cloudflare workers)
-sahakarmitra        legal assistant for housing society law (smart india hackathon)
-ner-connect         logistics platform for northeast india
-ap-fraud-sentinel   invoice fraud screening before payment release
-```
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/divider.svg" alt="" width="100%" />
 
 ## Projects
 
@@ -52,6 +45,8 @@ ap-fraud-sentinel   invoice fraud screening before payment release
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,js,astro,html,css,cloudflare,linux,git&theme=dark" alt="Tools" width="100%" />
 
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/divider.svg" alt="" width="100%" />
+
 ## Stats
 
 <table>
@@ -78,6 +73,8 @@ ap-fraud-sentinel   invoice fraud screening before payment release
   <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/output/github-contribution-grid-snake.svg" alt="Contribution graph snake" />
 </picture>
 
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/divider.svg" alt="" width="100%" />
+
 ## Connect
 
 <p align="center">
@@ -85,5 +82,10 @@ ap-fraud-sentinel   invoice fraud screening before payment release
     <img src="https://img.shields.io/badge/Telegram-@C1pherHeaven-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @C1pherHeaven" />
   </a>
 </p>
+
+```console
+$ exit
+connection to github closed
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:002b00,60:00FF41,100:001400&section=footer" alt="" width="100%" />

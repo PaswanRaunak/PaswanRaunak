@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" font-family="Consolas,'JetBrains Mono',Menlo,'DejaVu Sans Mono',monospace">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b130b"/>
+      <stop offset="1" stop-color="#060a06"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="400" rx="18" fill="url(#bg2)"/>
+  <rect x="1" y="1" width="998" height="398" rx="17" fill="none" stroke="#00FF41" stroke-opacity="0.35"/>
+
+  <circle cx="36" cy="24" r="7" fill="#00FF41"/>
+  <circle cx="60" cy="24" r="7" fill="#00FF41" fill-opacity="0.5"/>
+  <circle cx="84" cy="24" r="7" fill="#00FF41" fill-opacity="0.25"/>
+  <text x="500" y="29" text-anchor="middle" font-size="15" fill="#5fae72">raunak@github:~ neofetch</text>
+  <line x1="1" y1="47" x2="999" y2="47" stroke="#00FF41" stroke-opacity="0.25"/>
+
+  <!-- android head -->
+  <line x1="140" y1="152" x2="126" y2="128" stroke="#00FF41" stroke-width="6" stroke-linecap="round"/>
+  <line x1="200" y1="152" x2="214" y2="128" stroke="#00FF41" stroke-width="6" stroke-linecap="round"/>
+  <rect x="110" y="140" width="140" height="72" rx="36" fill="#00FF41"/>
+  <circle cx="150" cy="176" r="9" fill="#060a06"/>
+  <circle cx="210" cy="176" r="9" fill="#060a06"/>
+
+  <text x="180" y="286" text-anchor="middle" font-size="20" font-weight="bold" fill="#f2f7f2">PaswanRaunak</text>
+  <text x="180" y="314" text-anchor="middle" font-size="15" fill="#00FF41">@github</text>
+  <text x="180" y="348" text-anchor="middle" font-size="14" fill="#4f9e63">building in public</text>
+
+  <!-- specs -->
+  <text x="400" y="122" font-size="22" font-weight="bold" fill="#f2f7f2">raunak@github</text>
+  <line x1="400" y1="136" x2="950" y2="136" stroke="#00FF41" stroke-opacity="0.3"/>
+
+  <text x="400" y="176" font-size="17" fill="#6fae7e">os</text>
+  <text x="500" y="176" font-size="17" fill="#d7e8d7">android apps + web tools</text>
+
+  <text x="400" y="214" font-size="17" fill="#6fae7e">build</text>
+  <text x="500" y="214" font-size="17"><tspan fill="#d7e8d7">ai-assisted, </tspan><tspan fill="#00FF41">learning as i ship</tspan></text>
+
+  <text x="400" y="252" font-size="17" fill="#6fae7e">shell</text>
+  <text x="500" y="252" font-size="17" fill="#d7e8d7">bash + git (basics)</text>
+
+  <text x="400" y="290" font-size="17" fill="#6fae7e">uptime</text>
+  <text x="500" y="290" font-size="17" fill="#d7e8d7">since apr 2025</text>
+
+  <text x="400" y="328" font-size="17" fill="#6fae7e">theme</text>
+  <text x="500" y="328" font-size="17" fill="#d7e8d7">dark, accent #00FF41</text>
+
+  <text x="400" y="366" font-size="17" fill="#6fae7e">contact</text>
+  <text x="500" y="366" font-size="17" fill="#00FF41">t.me/C1pherHeaven</text>
+</svg>
