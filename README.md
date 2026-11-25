@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/github/stars/PaswanRaunak?style=flat-square&color=00FF41&labelColor=0d120d&label=stars" alt="Stars" />
 </p>
 
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/output/session.svg" alt="raunak@github live session" width="100%" />
+
 <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/neofetch.svg" alt="raunak@github neofetch" width="100%" />
 
-<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/divider.svg" alt="" width="100%" />
-
-## Projects
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/bar-projects.svg" alt="raunak@github:~/projects" width="100%" />
 
 **athermate, on a real device**
 
@@ -84,13 +84,11 @@
   </tr>
 </table>
 
-## Tools I use
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/bar-tools.svg" alt="raunak@github:~/tools" width="100%" />
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,js,astro,html,css,cloudflare,linux,git&theme=dark" alt="Tools" width="100%" />
 
-<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/divider.svg" alt="" width="100%" />
-
-## Stats
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/bar-stats.svg" alt="raunak@github:~/stats" width="100%" />
 
 <table>
   <tr>
@@ -105,20 +103,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaswanRaunak&layout=compact&theme=chartreuse-dark&hide_border=true&exclude_repo=android_kernel_oneplus_sm6375,android_device_oneplus_larry,android_device_oneplus_sm6375-common" alt="Top languages" />
 
-## Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PaswanRaunak&theme=merko&hide_border=true&area=true&line=00FF41&point=eaffea&area_color=002b00" alt="Contribution activity" width="100%" />
-
-## Contribution graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/output/github-contribution-grid-snake.svg" alt="Contribution graph snake" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/divider.svg" alt="" width="100%" />
-
-## Connect
+<img src="https://raw.githubusercontent.com/PaswanRaunak/PaswanRaunak/main/assets/bar-connect.svg" alt="raunak@github:~/connect" width="100%" />
 
 <p align="center">
   <a href="https://t.me/C1pherHeaven">
